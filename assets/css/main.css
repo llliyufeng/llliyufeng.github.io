@@ -3315,19 +3315,19 @@ table.alt tfoot {
 }
 
 .wrapper.style2 {
-  background-color: #5052b5;
+  background: url(../../images/pic01.jpg);
 }
 
 .wrapper.style2-alt {
-  background-color: #3e4094;
+  background: url(../../images/pic01.jpg);
 }
 
 .wrapper.style3 {
-  background-color: #b74e91;
+  background: url(../../images/pic01.jpg);
 }
 
 .wrapper.style3-alt {
-  background-color: #953d75;
+  background: url(../../images/pic01.jpg);
 }
 
 .wrapper.fullscreen {
