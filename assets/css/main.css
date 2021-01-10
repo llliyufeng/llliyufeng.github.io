@@ -2620,23 +2620,23 @@ input[type="radio"] + label:before {
 }
 
 .wrapper.style1 .icon.major:before {
-  color: #5e42a6;
+  color: #5e42a600;
 }
 
 .wrapper.style1-alt .icon.major:before {
-  color: #493382;
+  color: #49338200;
 }
 
 .wrapper.style2 .icon.major:before {
-  color: #5052b5;
+  color: #5052b500;
 }
 
 .wrapper.style2-alt .icon.major:before {
-  color: #3e4094;
+  color: #3e3f9400;
 }
 
 .wrapper.style3 .icon.major:before {
-  color: #b74e91;
+  color: #b74e9100;
 }
 
 .wrapper.style3-alt .icon.major:before {
