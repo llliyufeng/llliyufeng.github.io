@@ -2624,7 +2624,7 @@ input[type="radio"] + label:before {
 }
 
 .wrapper.style1-alt .icon.major:before {
-  color: #493382;
+  color: #000000;
 }
 
 .wrapper.style2 .icon.major:before {
@@ -3311,7 +3311,7 @@ table.alt tfoot {
 }
 
 .wrapper.style1-alt {
-  background: url(../../images/pic05.jpg);
+  background: #c9bea8;
 }
 
 .wrapper.style2 {
