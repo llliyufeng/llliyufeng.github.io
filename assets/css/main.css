@@ -2620,23 +2620,23 @@ input[type="radio"] + label:before {
 }
 
 .wrapper.style1 .icon.major:before {
-  color: #5e42a600;
+  color: #5e42a6;
 }
 
 .wrapper.style1-alt .icon.major:before {
-  color: #ffffff;
+  color: #493382;
 }
 
 .wrapper.style2 .icon.major:before {
-  color: #5052b500;
+  color: #5052b5;
 }
 
 .wrapper.style2-alt .icon.major:before {
-  color: #3e3f9400;
+  color: #3e4094;
 }
 
 .wrapper.style3 .icon.major:before {
-  color: #b74e9100;
+  color: #b74e91;
 }
 
 .wrapper.style3-alt .icon.major:before {
@@ -3311,19 +3311,19 @@ table.alt tfoot {
 }
 
 .wrapper.style1-alt {
-  background-color: #c6c2d100;
+  background: url(../../images/pic01.jpg);
 }
 
 .wrapper.style2 {
-  background-color: #5052b500;
+  background-color: #5052b5;
 }
 
 .wrapper.style2-alt {
-  background-color: #3e3f9400;
+  background-color: #3e4094;
 }
 
 .wrapper.style3 {
-  background-color: #b74e9100;
+  background-color: #b74e91;
 }
 
 .wrapper.style3-alt {
