@@ -181,7 +181,7 @@ html {
 }
 
 body {
-  background: #c0b3df;
+  background: #8098b4;
 }
 
 body.is-preload *,
@@ -3555,9 +3555,7 @@ body.is-preload .wrapper.fade > .inner {
     margin-left: 0;
   }
 }
-#footer {
-  color: #000;
-}
+
 #footer > .inner a {
   border-bottom-color: rgba(199, 163, 163, 0.116);
 }
