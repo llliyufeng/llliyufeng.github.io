@@ -181,7 +181,7 @@ html {
 }
 
 body {
-  background: #8098b4;
+  background: #ba92c4cb;
 }
 
 body.is-preload *,
@@ -3143,11 +3143,11 @@ body.is-ie .spotlights > section {
 }
 
 .spotlights > section:nth-child(2) {
-  background-color: rgb(117, 5, 5);
+  background-color: rgba(194, 171, 171, 0);
 }
 
 .spotlights > section:nth-child(3) {
-  background-color: rgb(192, 158, 158);
+  background-color: rgba(0, 0, 0, 0);
 }
 
 .spotlights > section.inactive > .image:before,
@@ -3311,7 +3311,7 @@ table.alt tfoot {
 }
 
 .wrapper.style1-alt {
-  background: #000000;
+  background: #3a8192;
 }
 
 .wrapper.style2 {
